@@ -27,8 +27,14 @@ Welcome to **ORBITRA**, the space exploration platform where you can explore the
 
 ## 🌍 Technologies Used
 
-- **MongoDB**: Database & Storage
-- **React.js**: Frontend framework
-- **Tailwind CSS**: Styling framework
-- **React Router**: Navigation
-- **React Redux**: State Management
+### Frontend:
+- **React.js**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for modern and responsive design.
+- **Axios**: Promise-based HTTP client for making API calls.
+
+### Backend:
+- **Node.js with Express.js**: JavaScript runtime and framework for building the server-side application.
+- **MongoDB and Mongoose**: NoSQL database and the Mongoose ODM for database management.
+- **JWT (JSON Web Token)**: Authentication mechanism for securely transmitting information.
+- **Multer**: Middleware for handling `multipart/form-data`, used for file uploads.
+
