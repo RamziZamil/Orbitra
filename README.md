@@ -36,5 +36,4 @@ Welcome to **ORBITRA**, the space exploration platform where you can explore the
 - **Node.js with Express.js**: JavaScript runtime and framework for building the server-side application.
 - **MongoDB and Mongoose**: NoSQL database and the Mongoose ODM for database management.
 - **JWT (JSON Web Token)**: Authentication mechanism for securely transmitting information.
-- **Multer**: Middleware for handling `multipart/form-data`, used for file uploads.
 
